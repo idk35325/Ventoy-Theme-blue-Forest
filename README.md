@@ -3,7 +3,6 @@
 <img width="1280" height="720" alt="Untitled" src="https://github.com/user-attachments/assets/f5f2cba0-63e8-470b-97c3-40fb17db532d" />
 
 
-A ventoy Grub Theme 
 
 # Screenshots
 
