@@ -1,0 +1,10 @@
+{
+    "theme": {
+        "file": "/ventoy/themes/Forest-Ventoy-Theme/theme.txt",
+        "fonts": [
+            "/ventoy/themes/Forest-Ventoy-Theme/ComicMono.pf2"
+        ],
+        "gfxmode": "1280x720",
+        "display_mode": "GUI"
+    }
+}
