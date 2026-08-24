@@ -27,16 +27,10 @@ font Vs No font
 
  Just : Copy "ventoy" folder to Root of USB Drive.
 
-#
 
 Windows:
 X:\ventoy
 
-#
 
 Linux:
 /run/media/[USERNAME]/[USB DRIVE]/ventoy
-
-#
-
-# https://www.opendesktop.org/p/2369418/
