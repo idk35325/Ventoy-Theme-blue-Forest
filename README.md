@@ -6,13 +6,23 @@
 
 # Screenshots
 
-<img width="905" height="510" alt="Screenshot From 2026-08-23 18-39-32" src="https://github.com/user-attachments/assets/001dc1df-20d3-4c64-b39c-4b79d0da0983" />
+<img width="1366" height="768" alt="Screenshot From 2026-08-23 23-07-29" src="https://github.com/user-attachments/assets/ed41e497-9d82-4d62-9ab0-88a231995a8c" />
+
 
 # 
 
-<img width="905" height="510" alt="Screenshot From 2026-08-23 18-39-37" src="https://github.com/user-attachments/assets/1ac1b01c-472e-41db-a8d7-ae60bdda5f1c" />
- 
- 
+font Vs No font
+
+
+ #
+
+ <img width="1366" height="768" alt="text2photo-745580e5ffa92fc94bb2e4b075c882fe" src="https://github.com/user-attachments/assets/20aa9e49-ae0e-40bf-ad5f-b37755e93fb1" />
+
+
+#
+
+<img width="1366" height="768" alt="text2photo-2c108ac43c150ed8d350ec037a44cc83" src="https://github.com/user-attachments/assets/539f7411-111d-4d25-b244-507ac7ab92bc" />
+
  # Installation
 
  Just : Copy "ventoy" folder to Root of USB Drive.
